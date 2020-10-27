@@ -1,0 +1,19 @@
+* {
+    
+    border: 1px solid yellow !important;
+}
+
+.grid {
+    width: 100%;
+    
+}
+
+.row{
+    width: 100%;
+    
+}
+
+.col-10{
+    width: 10%;
+    
+}
